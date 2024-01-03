@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.127.85.126:9000/</sonar.host.url>
+		<sonar.host.url>http://172.31.38.4:9000/</sonar.host.url>
 		<sonar.login>squ_01db875c21f3638dcd2f22e7cbd3b30451e83c54</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>pushpendra369</name>
-	      <url>http://13.127.225.44:1993/pushpendra369/repository/appleinc-release/</url>
+	      <url>http://172.31.33.18:1993/pushpendra369/repository/appleinc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>pushpendra369</name>
-	      <url>http://13.127.225.44:1993/pushpendra369/repository/appleinc-snapshot/</url>
+	      <url>http://172.31.33.18:1993/pushpendra369/repository/appleinc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
