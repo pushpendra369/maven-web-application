@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.7.27:8081/repository/citibank-releases/</url>
+	      <name>pushpendra369</name>
+	      <url>http://13.127.225.44:1993/pushpendra369/repository/appleinc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.7.27:8081/repository/citibank-snapshot/</url>
+	      <name>pushpendra369</name>
+	      <url>http://13.127.225.44:1993/pushpendra369/repository/appleinc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
